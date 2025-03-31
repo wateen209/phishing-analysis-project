@@ -30,7 +30,6 @@ Threat Check APIs:
 
 Files Included:
 -Phishing URLs Analysis Code.ipynb (the analysis code)
--Phishing URLs.csv (the dataset)
 -Phishing_Analysis_Report.docx (the report)
 
 How to Run:
